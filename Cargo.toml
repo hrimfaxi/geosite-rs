@@ -11,7 +11,7 @@ homepage = "https://github.com/e1732a364fed/geosite-rs"
 repository = "https://github.com/e1732a364fed/geosite-rs"
 
 [dependencies]
-prost = "0.13.5"
+prost = "0.14"
 
 # [build-dependencies]
 # prost-build = "0.13.5"
